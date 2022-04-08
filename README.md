@@ -1,2 +1,0 @@
-# pavanresume
-My Resume Template
